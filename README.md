@@ -8,6 +8,12 @@ These Colab notebooks and the accompanying files will show you how to:
 * Sync Colab with your Google Drive to automatically backup trained weights
 * See how to configure **YOLOv3** training on your own dataset
 
+After running this, you should have a trained YOLOv3 model that can detect apples, tomatoes, and bell peppers.
+
+![Successful Object Detection](results_success.png)
+
+Delicious :)
+
 # Instructions
 
 ## Setup on Google Drive
